@@ -1,0 +1,12 @@
+{application, read_repair,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { read_repair_app, []}},
+  {env, []}
+ ]}.
