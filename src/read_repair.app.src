@@ -7,6 +7,5 @@
                   kernel,
                   stdlib
                  ]},
-  {mod, { read_repair_app, []}},
   {env, []}
  ]}.
