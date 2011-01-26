@@ -6,12 +6,12 @@
 ** Building
 
 #+begin_src bash
-make
+   make
 #+end_src
 
 ** Running
 
 #+begin_src bash
-./read_repair pb_ip pb_port bucket1 bucket2 bucket3
+   ./read_repair pb_ip pb_port bucket1 bucket2 bucket3
 #+end_src bash
 
